@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Playingaim
+- 👀 I’m interested in Games
+- 🌱 I’m currently learning Javascript
